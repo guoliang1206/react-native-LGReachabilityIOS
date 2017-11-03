@@ -1,0 +1,23 @@
+{
+  "name": "react-native-lg-reachability-ios",
+  "version": "1.0.0",
+  "description": "React Native tools for check the network state on ios platform ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoliang1206/react-native-LGReachabilityIOS.git"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "Leon Guo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoliang1206/react-native-LGReachabilityIOS/issues"
+  },
+  "homepage": "https://github.com/guoliang1206/react-native-LGReachabilityIOS#readme"
+}
