@@ -3,7 +3,7 @@ Tools for check the network state on iOS
 
 Check the status of network (iOS)
 
-###Usage
+#Usage
 
 `import {NativeModules} from 'react-native'`
 `const ReachabilityIOS = NativeModules.LGReachabilityIOS;`
@@ -13,3 +13,6 @@ Check the status of network (iOS)
             callback(result);
         })
 ```
+
+#Lisence
+MIT
