@@ -7,7 +7,7 @@
 //
 
 #import "LGReachability.h"
-
+#import "Reachability.h"
 @implementation LGReachability
 RCT_EXPORT_MODULE()
 
